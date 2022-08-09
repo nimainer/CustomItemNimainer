@@ -1,0 +1,25 @@
+name: CustomItemNimainer
+version: '${project.version}'
+main: com.nima.main.Main
+api-version: 1.19
+description: Still in development
+commands:
+  map:
+    description: used to credit map creator and etc
+    usage: /<command>
+  CINarmorStand:
+    description: armor stand things(sry if your seeing this probably forgot to update the description after i was finished)
+    usage: /<command>
+  giveTpBow:
+    description: give you a bow used for teleportation
+    usage: /<command>
+  fly:
+    description: lets you fly
+    usage: /<command>
+  GiveRabbitFoot:
+    description: gives you the magic item 'Rabbit's foot'
+    usage: /<command>
+  givewand:
+    description: give you an explosive wand
+    usage: /<command>
+

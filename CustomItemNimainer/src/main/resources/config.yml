@@ -1,0 +1,17 @@
+fly-on-message: 'fly Enabled'
+fly-of-message: 'fly Disabled'
+CustomItemNimainer-1-error-message-fly: 'You do not have permission to use command /fly'
+CustomItemNimainer-1-error-message-otherfly: "You cant make other player's fly"
+
+PlayerJoinMessage_firsttime_beforePlayerName: ">> "
+PlayerJoinMessage_firsttime_afterPlayerName: " has joined the server for the first time"
+
+PlayerJoinMessage_beforePlayerName: ">> "
+PlayerJoinMessage_afterPlayerName: " has joined the server"
+
+PlayerLeaveMessage_beforePlayerName: ">> "
+PlayerLeaveMessage_afterPlayerName: " has left the server"
+
+Map-name: "No map name"
+
+
